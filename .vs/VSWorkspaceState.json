@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApi_CICD"
   ],
-  "SelectedNode": "\\D:\\Practice\\Web_CICD",
+  "SelectedNode": "\\WebApi_CICD\\WebApi_CICD.sln",
   "PreviewInSolutionExplorer": false
 }

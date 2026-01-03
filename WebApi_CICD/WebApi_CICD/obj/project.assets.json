@@ -576,11 +576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\WebApi_CICD\\WebApi_CICD\\WebApi_CICD.csproj",
+      "projectUniqueName": "D:\\Practice\\Web_CICD\\WebApi_CICD\\WebApi_CICD\\WebApi_CICD.csproj",
       "projectName": "WebApi_CICD",
-      "projectPath": "D:\\Practice\\WebApi_CICD\\WebApi_CICD\\WebApi_CICD.csproj",
+      "projectPath": "D:\\Practice\\Web_CICD\\WebApi_CICD\\WebApi_CICD\\WebApi_CICD.csproj",
       "packagesPath": "C:\\Users\\shini\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\WebApi_CICD\\WebApi_CICD\\obj\\",
+      "outputPath": "D:\\Practice\\Web_CICD\\WebApi_CICD\\WebApi_CICD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
